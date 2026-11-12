@@ -1,0 +1,20 @@
+{
+  "models": {
+    "ann": {
+      "status": "running",
+      "epoch": 21,
+      "total_epochs": 100,
+      "metrics": {
+        "accuracy": 0.9835008382797241,
+        "loss": 0.046530406922101974,
+        "precision": 0.2691029906272888,
+        "recall": 1.0,
+        "val_accuracy": 0.9888988733291626,
+        "val_loss": 0.042234163731336594,
+        "val_precision": 0.3333333432674408,
+        "val_recall": 0.9473684430122375
+      }
+    }
+  },
+  "updated_at": "2026-10-09T09:15:47.196863+00:00"
+}

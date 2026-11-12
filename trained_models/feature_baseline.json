@@ -1,0 +1,17 @@
+{
+  "hour": 11.0,
+  "day_of_week": 3.0,
+  "day_of_month": 16.0,
+  "is_weekend": 0.0,
+  "amount": 2556.485,
+  "old_balance_orig": 40792.369999999995,
+  "new_balance_orig": 35461.12,
+  "old_balance_dest": 25230.405,
+  "new_balance_dest": 30257.025596460822,
+  "orig_balance_delta": 2497.0400000000004,
+  "dest_balance_delta": 2470.2000000000007,
+  "orig_amount_delta": 0.0,
+  "dest_amount_delta": 0.0,
+  "txn_type": "PAYMENT",
+  "device_os": "Android"
+}
